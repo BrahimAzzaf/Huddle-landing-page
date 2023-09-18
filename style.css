@@ -27,7 +27,7 @@ header img{
     padding-top: 10px;
     padding-bottom:0 ;
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(560px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
 }
 .left{
     
